@@ -1,0 +1,4 @@
+LIBRARY psk_model_coded_cgxe.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
